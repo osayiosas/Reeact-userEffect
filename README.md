@@ -2,7 +2,7 @@
 
 simple code to understand useEffect in react. 
 
-#life cycle  of a components and the three stages 
+# life cycle  of a components and the three stages 
 1. mounting stage 
 2. updating stage 
 3. unmounting stage. 
